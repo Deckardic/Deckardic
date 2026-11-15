@@ -1,28 +1,28 @@
 # Dmitry Vidyakin
 
-**Project Manager | AI-Driven Delivery**
+AI Automation Engineer · Kemerovo, Russia
 
-I lead cross-functional technology delivery and turn operational problems into practical systems. My work spans project governance, requirements, stakeholder alignment, automation, and AI-enabled workflows—with human review and clear delivery controls.
+I automate development and support work with LLMs and AI agents. I work as a technical product manager at E-Light-Telecom (Goodline), where I built:
 
-## Focus
+- a multi-agent development pipeline where agents interview task authors in Jira, research the code and prepare implementation and tests;
+- GoodLine Harness, a corporate desktop app for working with AI agents and internal systems, and CLI tools that give agents access to legacy desktop applications;
+- an autonomous QA agent for a mobile app that saves the team about 160 hours a month;
+- a RAG assistant for tech support with 37% faster answers;
+- an internal CRM rebuilt from scratch with AI agents, and a knowledge graph of 22 repositories for agents.
 
-- End-to-end project delivery: scope, risks, priorities, dependencies, and stakeholder communication
-- AI-enabled process automation, from requirements and prototypes to controlled production workflows
-- Internal knowledge systems using RAG, vector search, and source-grounded answers
-- Fast, measurable experimentation with structured testing and human approval
+That code is private. My public projects are below.
 
-## Selected projects
+## Public projects
 
-| Project | What it demonstrates |
+| Project | What it is |
 | --- | --- |
-| [Legasilabs Site](https://github.com/Deckardic/legasilabs-site) | Requirements-led, AI-assisted delivery of a tested React/TypeScript promotional site |
-| [AgroCalculator PPR](https://github.com/Deckardic/AgroCalculatorPPR) | An offline React Native application for agronomy calculations and operational records |
-| [Inside Track Offline Bot](https://github.com/Deckardic/inside-track-offline-bot) | OCR-based desktop automation with calibration, guardrails, structured logs, and tests |
+| [AgroCalculator PPR](https://github.com/Deckardic/AgroCalculatorPPR) | Offline React Native app for agronomy calculations, field records and reports |
+| [Inside Track Offline Bot](https://github.com/Deckardic/inside-track-offline-bot) | OCR desktop automation with calibration, guardrails, structured logs and tests |
+| [MyTimingBot](https://github.com/Deckardic/MyTimingBot) | Local Telegram bot that builds event schedules |
+| [Legasilabs Site](https://github.com/Deckardic/legasilabs-site) | React and Vite site built with AI agents and tested |
 
-## Toolkit
+## Stack
 
-`Jira` · `Confluence` · `n8n` · `Qdrant` · `RAG` · `MCP` · `REST APIs` · `SQL` · `Git` · `React` · `TypeScript` · `Python`
-
-Open to full-time remote Project Manager and AI Project Manager opportunities worldwide.
+Claude Code, Codex, LLM APIs, MCP, RAG, n8n, Qdrant, Python, TypeScript, React, REST APIs, SQL, Git, GitLab CI/CD
 
 [LinkedIn](https://www.linkedin.com/in/vidyakinda/) · [Email](mailto:vidyakinda@icloud.com)
